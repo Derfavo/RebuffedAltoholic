@@ -1,0 +1,13 @@
+## Interface: 30300
+## Title: RebuffedAltoholic
+## Notes: Character overview, inventories, professions and observed custom items.
+## Author: Derfavo
+## Version: 1.0.0
+## X-Release-Date: 20261104
+## SavedVariables: RebuffedAltoholicDB, RebuffedAltoholicVersionDB
+Core.lua
+Items.lua
+Scan.lua
+UI.lua
+Sharing.lua
+VersionCheck.lua
